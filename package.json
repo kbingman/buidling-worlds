@@ -11,6 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@mdx-deck/components": "^2.5.0",
     "@mdx-deck/themes": "^3.0.8",
     "code-surfer": "^0.5.5",
     "mdx-code": "^1.1.3",
